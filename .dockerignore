@@ -1,0 +1,6 @@
+Dockerfile
+.idea
+docker-compose.yml
+shell.sh
+up.sh
+vendor
