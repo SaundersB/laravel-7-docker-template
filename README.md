@@ -30,3 +30,6 @@ You should now see the landing page:
 ![Landing Page](./docs/landing_page.png)
 
 Done!
+
+## License
+The Laravel framework is open-sourced software licensed under the MIT license.
